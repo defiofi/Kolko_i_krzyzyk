@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KolkoIKrzyzyk.mechanika.MovementsTestSuite" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-10-25T19:36:14" hostname="DESKTOP-179V966" time="0.027">
+  <properties/>
+  <testcase name="movementTestSuiteForMediumModePieceODefence()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForHardModePieceODefence()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.01"/>
+  <testcase name="movementTestSuiteForHardModeAdvancedDefence()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.002"/>
+  <testcase name="movementTestSuiteForHardModeAllPlaceBusy()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.002"/>
+  <testcase name="movementTestSuiteForHardModePieceOWin()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.002"/>
+  <testcase name="movementTestSuiteForHardModePieceXWin()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForMediumModeAllPlaceBusy()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForEasyModePieceO()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForEasyModePieceX()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForMediumModePieceXDefence()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForHardModePieceXDefence()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForHardModeGoodMove()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <testcase name="movementTestSuiteForEasyModeAllPlaceBusy()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.0"/>
+  <testcase name="movementTestSuiteForMediumModePieceOWin()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.0"/>
+  <testcase name="movementTestSuiteForMediumModePieceXWin()" classname="KolkoIKrzyzyk.mechanika.MovementsTestSuite" time="0.001"/>
+  <system-out><![CDATA[Dobre ruchy: 
+1: x:0 y:0
+PrzeciÄ™tne ruchy: 
+1: x:0 y:1
+PrzeciÄ™tne ruchy: 
+1: x:0 y:2
+Dobre ruchy: 
+1: x:1 y:1
+PrzeciÄ™tne ruchy: 
+1: x:1 y:2
+Dobre ruchy: 
+1: x:2 y:0
+PrzeciÄ™tne ruchy: 
+1: x:2 y:1
+PrzeciÄ™tne ruchy: 
+1: x:2 y:2
+PrzeciÄ™tne ruchy: 
+1: x:1 y:1
+Dobre ruchy: 
+1: x:0 y:0
+Dobre ruchy: 
+1: x:0 y:1
+Dobre ruchy: 
+1: x:0 y:2
+Dobre ruchy: 
+1: x:1 y:0
+Dobre ruchy: 
+1: x:1 y:1
+Dobre ruchy: 
+1: x:1 y:2
+Dobre ruchy: 
+1: x:2 y:0
+Dobre ruchy: 
+1: x:2 y:1
+Dobre ruchy: 
+1: x:2 y:2
+Dobre ruchy: 
+1: x:0 y:0
+Dobre ruchy: 
+1: x:0 y:1
+Dobre ruchy: 
+1: x:0 y:2
+Dobre ruchy: 
+1: x:1 y:0
+Dobre ruchy: 
+1: x:1 y:1
+Dobre ruchy: 
+1: x:1 y:2
+Dobre ruchy: 
+1: x:2 y:0
+Dobre ruchy: 
+1: x:2 y:1
+Dobre ruchy: 
+1: x:2 y:2
+Dobre ruchy: 
+1: x:0 y:0
+PrzeciÄ™tne ruchy: 
+1: x:0 y:1
+PrzeciÄ™tne ruchy: 
+1: x:0 y:2
+PrzeciÄ™tne ruchy: 
+1: x:1 y:0
+Dobre ruchy: 
+1: x:1 y:1
+PrzeciÄ™tne ruchy: 
+1: x:1 y:2
+Dobre ruchy: 
+1: x:2 y:0
+PrzeciÄ™tne ruchy: 
+1: x:2 y:1
+PrzeciÄ™tne ruchy: 
+1: x:2 y:2
+Dobre ruchy: 
+1: x:0 y:0
+Dobre ruchy: 
+1: x:0 y:0
+Dobre ruchy: 
+1: x:1 y:1
+Dobre ruchy: 
+1: x:2 y:0
+Dobre ruchy: 
+1: x:2 y:2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

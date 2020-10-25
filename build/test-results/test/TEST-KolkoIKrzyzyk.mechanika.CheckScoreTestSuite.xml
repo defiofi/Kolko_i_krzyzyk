@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-25T19:36:14" hostname="DESKTOP-179V966" time="0.028">
+  <properties/>
+  <testcase name="possibilityOfMovementTestFull()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.015"/>
+  <testcase name="checkWinTestEmptyTable()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.001"/>
+  <testcase name="checkWritenLinesTest()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.001"/>
+  <testcase name="possibilityOfMovementTestEmpty()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.0"/>
+  <testcase name="checkWinTestXWinForX()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.008"/>
+  <testcase name="checkWinTestXWinForY()" classname="KolkoIKrzyzyk.mechanika.CheckScoreTestSuite" time="0.001"/>
+  <system-out><![CDATA[win= 1 ; winLine=0
+win= -1 ; winLine=0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
